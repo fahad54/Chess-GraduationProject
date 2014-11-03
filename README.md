@@ -1,7 +1,7 @@
 Chess Game
 =====
 
-Helped in performing architectural decisions to meet all the technical and operational requirements. Performed analysis and design of the problems presented and suggested solutions to build the software.
+I helped in performing architectural decisions to meet all the technical and operational requirements. Performed analysis and design of the problems presented and suggested solutions to build the software.
 
 I implemented the following parts when I was taking a break from the tech industry.
 
