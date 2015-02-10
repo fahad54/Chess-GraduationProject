@@ -13,4 +13,4 @@ I implemented the following parts when I was taking a break from the tech indust
 * Tree-like representation of the game
 * Algorithms for managing this tree (minimax search & alpha-beta pruning)
 
-All images have been taken from internet (credit must go to original creators)
+All images have been taken from internet (credit must go to original creators but the website is not accessible anymore)
