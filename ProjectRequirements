@@ -1,0 +1,13 @@
+Functional
+
+- 8x8 2 dimensional array to be defined in the class Board.
+- Alpha- beta pruning
+- Evaluation function: material balance/position
+
+
+Non-functional
+- The system should show all the valid moves available for a selected piece.(highlighted squares)
+- When a piece is clicked it should highlight the piece or somehow show it is selected
+- If a user uses an invalid move, display a message "invalid move"
+- If a king is in check inform the user.
+- Do not let the user play the move if it will cause check to happen. 
